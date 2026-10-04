@@ -135,11 +135,7 @@ Analyze fees and taxes
 Identify geographic patterns
 Support data-driven decision-making
 ## 👨‍💻 Author
-Aman Prasad
+Sandeep Kumar Singh
 Aspiring Data Analyst | Power BI | SQL | Python | Data Analytics | AI & Data Engineering
-
-## 🔗 Connect With Me
-GitHub: amanprasadx
-LinkedIn: Aman Prasad
 
 ⭐ If you find this project useful, feel free to star the repository!
